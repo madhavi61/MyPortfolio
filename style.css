@@ -641,7 +641,7 @@ footer .wave {
   cursor: pointer;
 }
 
-@media screen and (min-width: 1681px) {
+@media screen and (min-width: 1034px) {
   .resolution {
     display: block;
     text-align: center;
